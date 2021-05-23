@@ -1,0 +1,13 @@
+setup.py
+a3py/Audio.py
+a3py/MySignal.py
+a3py/STFT.py
+a3py/__init__.py
+a3py.egg-info/PKG-INFO
+a3py.egg-info/SOURCES.txt
+a3py.egg-info/dependency_links.txt
+a3py.egg-info/not-zip-safe
+a3py.egg-info/requires.txt
+a3py.egg-info/top_level.txt
+a3py/pointline/Canvas2D.py
+a3py/pointline/__init__.py

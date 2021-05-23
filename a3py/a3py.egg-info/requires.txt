@@ -1,0 +1,12 @@
+numpy
+scipy
+jsonpickle
+mido
+librosa
+matplotlib
+future
+six
+termcolor
+apy
+ipywidgets
+drawSvg

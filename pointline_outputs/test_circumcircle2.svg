@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1080" height="720" viewBox="0 -720 1080 720">
+<defs>
+</defs>
+<path d="M702.0,0.0 L221.99999999999997,-720.0" stroke="#77ff77" stroke-dasharray="2 2 2" />
+<path d="M378.0,0.0 L858.0,-719.9999999999999" stroke="#77ff77" stroke-dasharray="2 2 2" />
+<path d="M540.0,0.0 L540.0,-720.0" stroke="#77ff77" stroke-dasharray="2 2 2" />
+<path d="M432.0,-288.0 L540.0,-360.0" stroke="blue" />
+<path d="M540.0,-360.0 L648.0,-288.0" stroke="blue" />
+<path d="M648.0,-288.0 L432.0,-288.0" stroke="blue" />
+<circle cx="540.0" cy="-242.99999999999994" r="117.00000000000003" stroke="#777777" fill="none" stroke-dasharray="5 5 5" stroke-width="3" />
+<circle cx="432.0" cy="-288.0" r="15" fill="#77aaff" stroke="black" />
+<text x="432.0" y="-288.0" font-size="15" fill="black" text-anchor="middle" dy="0.5em">A</text>
+<circle cx="540.0" cy="-360.0" r="15" fill="#77ffaa" stroke="black" />
+<text x="540.0" y="-360.0" font-size="15" fill="black" text-anchor="middle" dy="0.5em">B</text>
+<circle cx="648.0" cy="-288.0" r="15" fill="#ffaaff" stroke="black" />
+<text x="648.0" y="-288.0" font-size="15" fill="black" text-anchor="middle" dy="0.5em">C</text>
+<circle cx="540.0" cy="-242.99999999999994" r="15" fill="#888888" stroke="black" />
+<text x="540.0" y="-242.99999999999994" font-size="15" fill="black" text-anchor="middle" dy="0.5em">o</text>
+</svg>
